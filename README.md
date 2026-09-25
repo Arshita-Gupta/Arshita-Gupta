@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Arshita
 
-<!--
-**Arshita-Gupta/Arshita-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergraduate interested in software development,
+AI/ML and problem solving.
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Structures & Algorithms
+- Operating Systems
+- DBMS
+- Computer Networks
+- System Design
+
+## Tech
+
+C / C++ / Python / Java  
+Streamlit / LangChain / FAISS / Ollama  
+SQL / Git / GitHub
+
+## Projects
+
+- DocMind — Local RAG-based PDF study assistant
+- Mini Search Engine — C-based search engine using inverted indexing
+- Event Tracker — C-based command-line event management application
+
+## Currently Building
+
+Working on projects, hackathons and open-source contributions.
