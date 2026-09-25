@@ -1,4 +1,4 @@
-# Hi, I'm Arshita
+# Hi, I'm Arshita Gupta
 
 Computer Science undergraduate interested in software development,
 AI/ML and problem solving.
